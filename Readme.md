@@ -1,8 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Vasyl Zhyhlatyi](https://up.htmlacademy.ru/htmlcss/21/user/609157).
-
----
+* Наставник: [Максим Фарига](https://htmlacademy.ru/profile/maximfariga)
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
